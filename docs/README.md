@@ -29,3 +29,9 @@
 - **Js**
 - **Bootstrap**
 - **Ai (only logo and icon and picture and text)**
+
+## 💻 Main page
+- **Home**
+- **Male**
+- **Female**
+- **Accessories**
