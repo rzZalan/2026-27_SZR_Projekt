@@ -1,4 +1,5 @@
-# Sports Shop Projekt
+ <h1 align="center">Sport Shop Project</h1>
+ <img alt="Project Banner" src="../img/Banner_Main.png"> </img>
 ## Tags
 
 | Name             | Position         |
